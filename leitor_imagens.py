@@ -8,7 +8,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 # pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Caminho da imagem JPG
-caminho_imagem = "imagem.jpg"
+caminho_imagem = "SEU_CAMINHO_AQUI"#COLOQUE AQUI O CAMINHO DA SUA IMAGEM
 
 # Abre a imagem
 imagem = Image.open(caminho_imagem)
