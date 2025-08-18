@@ -1,7 +1,7 @@
 from PIL import Image
 import pytesseract
 import csv
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"CAMINHO_TESSERACT"
 
 # Se o Tesseract estiver instalado em um caminho específico (Windows)
 # Descomente e ajuste a linha abaixo com o caminho correto:
